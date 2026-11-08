@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋</h1>
 
-<p align="left">i'm Moaiz, a CS student at UT Dallas.</p>
+<p align="left">i'm Josue, a CS student at UT Dallas.</p>
 
 <h2 align="left">About me</h2>
 
